@@ -1,4 +1,5 @@
-# React sort visualisation 
+# React sort visualisation
+![](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
 
 ## Tech stack
 
